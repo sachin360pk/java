@@ -20,4 +20,9 @@ public class DiagonalSum {
         }
         return sum;
     }
+    // static int diagonalSumBrute(int[][] matrix){
+    //     int n=matrix.length;
+    //     int m=matrix[0].length;
+        
+    // }
 }
